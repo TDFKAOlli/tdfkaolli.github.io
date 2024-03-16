@@ -1,2 +1,2 @@
 # tdfkaolli.github.io
-STorage for privacy policies for the app
+Storage for privacy policies for the Cricketer app
